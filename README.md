@@ -1,10 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is [Your Name] and my nickname is "[Your Nickname]"!
+## My name is Filipe and my nickname is "filipebina"!
 
 ### A little about me
 
-I'm a [Your Profession/Student] with a passion for [Your Interests]. Currently, I'm working on [Your Current Project] and learning [New Skills You're Acquiring].
-
+I'm a Student of analysis and systems development with a passion for tecnology.
 ### My experiences
 
 * [Previous Work/Study Experience]
