@@ -13,7 +13,7 @@ I'm a Student of analysis and systems development with a passion for tecnology.
 
 You can reach me through:
 * filipebina@icloud.com
-* (https://www.linkedin.com/in/filipe-de-souza-santos-21aa7a86/)
+* https://www.linkedin.com/in/filipe-de-souza-santos-21aa7a86/
 
 ### Fun fact
 
@@ -22,7 +22,7 @@ You can reach me through:
 ### My skills
 
 ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/JavaScript/linuxjavascript-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//javascript/javascript-original.svg)
 
 ### Contatos
 
