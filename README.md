@@ -23,6 +23,8 @@ You can reach me through:
 
 ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//javascript/javascript-original.svg)
+![Html](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//html5/html5-original.svg)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//css3/css3-original.svg)
 
 ### Contatos
 
