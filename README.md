@@ -6,8 +6,8 @@
 I'm a Student of analysis and systems development with a passion for tecnology.
 ### My experiences
 
-* [Previous Work/Study Experience]
-* [Relevant Skills or Achievements]
+* Currently working with technical customer support and looking for an opportunity in development
+* Customer support, customer service, leadership team, ease of learning, punctuality, constant search and for growth
 
 ### Get in touch
 
